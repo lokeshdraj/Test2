@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM application automation test suite" duration-ms="19229" started-at="2019-03-26T14:35:41Z" finished-at="2019-03-26T14:36:00Z">
+    <groups>
+    </groups>
+    <test name="DRT test" duration-ms="19229" started-at="2019-03-26T14:35:41Z" finished-at="2019-03-26T14:36:00Z">
+      <class name="DRTTest.LoginTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="SetUp" is-config="true" duration-ms="7035" started-at="2019-03-26T20:05:41Z" finished-at="2019-03-26T20:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="EnterUserDetails(org.testng.ITestResult)[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="EnterUserDetails" duration-ms="1302" started-at="2019-03-26T20:05:48Z" finished-at="2019-03-26T20:05:49Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUserDetails -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="TearDown" is-config="true" duration-ms="2346" started-at="2019-03-26T20:05:49Z" finished-at="2019-03-26T20:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="SetUp" is-config="true" duration-ms="5628" started-at="2019-03-26T20:05:52Z" finished-at="2019-03-26T20:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TestTitle(org.testng.ITestResult)[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="TestTitle" duration-ms="571" started-at="2019-03-26T20:05:57Z" finished-at="2019-03-26T20:05:58Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTitle -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:DRTTest.LoginTest@5622fdf]" name="TearDown" is-config="true" duration-ms="2322" started-at="2019-03-26T20:05:58Z" finished-at="2019-03-26T20:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- DRTTest.LoginTest -->
+    </test> <!-- DRT test -->
+  </suite> <!-- FREE CRM application automation test suite -->
+</testng-results>
